@@ -21,3 +21,12 @@ body {
   .projects ol{
     list-style: none;
   }
+
+  .labs li {
+    border: 3px solid purple;
+    margin: 10px;
+    padding:10px;
+    height:12rem;
+    width:12rem;
+    display: inline-block;
+  }
